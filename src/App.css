@@ -1,0 +1,9 @@
+body {
+  background-color:  #eed0dc7c;
+}
+header {
+ background-image: url("https://t3.ftcdn.net/jpg/03/60/20/56/360_F_360205654_1BHSJL8mIHuVdJjMaTDyNSI0f27FIHL9.jpg");
+ background-position: center; /* Center the image */
+ background-repeat: no-repeat; /* Do not repeat the image */
+ background-color:  #f185b27c;
+}
